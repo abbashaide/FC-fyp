@@ -1,0 +1,111 @@
+body {
+    background: #FFCDA4;
+    margin: 0px;
+    padding: 0px;
+    border: 0;
+    text-align: center;
+}
+.navBC {
+	background: #A74C00;
+}
+.container {
+	padding-top: 80px;
+	padding-left: 80px;
+}
+
+.panel {
+    background: #FFCDA4;
+    border: solid 2px #A74C00;
+    padding: 5px;
+}
+
+.inuiyear {
+    padding-right: 50px;
+}
+
+.inuiyearspan {
+    margin-left: -45px;
+    color: #888;
+}
+
+input[type=text]  {
+    border: 1px solid #044284;
+    border-radius: 2px;
+    box-shadow: 1px 1px 2px #666;
+    font-size: 16px;
+}
+
+.inhalf {
+    width: 110px;
+}
+.indollar {
+    background: #fafafa url("https://d26tpo4cm8sb6k.cloudfront.net/img/svg/dollar.svg") 3px center no-repeat;
+    padding-left: 13px;
+    padding-top: 0.1rem;
+}
+
+input {
+    padding: 5px;
+    color: #000;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+table {
+    border-collapse: separate;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btnpadd {
+	padding-top: 10px;
+}
+
+.btn-danger {
+  background-color: #F05F44;
+  border-color: #F05F44;
+
+}
+
+.btn-danger:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
+
+.h2result {
+    background: #A74C00;
+    color: #fff;
+    border: 1px solid #A74C01;
+    padding: 5px;
+    margin-top: 3px;
+    font-size: 22px;
+    font-weight: normal;
+}
+
+h2 {
+    margin-bottom: 2px;
+}
+
+h1{
+	text-align: start;
+	padding-bottom: 10px;
+}
